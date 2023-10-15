@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-#add_lunch_combo twrp_Camon18P-user
-#add_lunch_combo twrp_Camon18P-userdebug
-#add_lunch_combo twrp_Camon18P-eng
+#add_lunch_combo twrp_Pova3-user
+#add_lunch_combo twrp_Pova3-userdebug
+#add_lunch_combo twrp_Pova3-eng
