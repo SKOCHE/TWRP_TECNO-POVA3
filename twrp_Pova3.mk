@@ -32,9 +32,6 @@ PRODUCT_PACKAGES += \
 
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="vnd_lf7_h6918-user 12 SP1A.210812.016 91997 release-keys"
+PRIVATE_BUILD_DESC="vnd_lf7_h6918-user 12 SP1A.210812.016 91997 release-keys"
 BUILD_FINGERPRINT := TECNO/LF7n-OP/TECNO-LF7n:12/SP1A.210812.016/220914V1031:user/release-keys
 
-# HACK: Set vendor patch level
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.vendor.build.security_patch=2099-12-31
