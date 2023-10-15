@@ -40,7 +40,7 @@ PRODUCT_SHIPPING_API_LEVEL := 31
 # Health Hal
 PRODUCT_PACKAGES += \
     android.hardware.health@2.1-impl \									  
-    android.hardware.health@2.1-service \
+    android.hardware.health@2.1-service 
     libhealthd.$(PRODUCT_PLATFORM)
 
 # Boot control HAL
